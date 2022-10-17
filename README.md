@@ -7,4 +7,4 @@ The proof of theorem 2 (that Chaos forms a tuple system) can be found at the bot
 
 Example 1 is formalised in Example.thy
 
-Proofs currently build in Isabelle 2021-1 and the release candidate for Isabelle 2022, other versions untested. 
+Proofs currently build in release candidate 2 for [Isabelle 2022](https://isabelle.sketis.net/website-Isabelle2022-RC2/), other versions untested. 
